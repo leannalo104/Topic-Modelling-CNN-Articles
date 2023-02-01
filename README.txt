@@ -7,4 +7,6 @@ There are 2 python notebooks for my project, which should be viewed in the follo
 2. Capstone_CNN_Modelling+Evaluation.ipynb
 - Contains word2vec model, HDBSCAN model, cluster identification and labelling, and final assessment using cosine similarity score 
 
+A pdf file containing slides summarizing the project methodology and findings is also attached. 
+
 The initial dataset can be downloaded here: https://www.kaggle.com/datasets/hadasu92/cnn-articles-after-basic-cleaning
