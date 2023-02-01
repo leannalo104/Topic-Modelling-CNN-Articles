@@ -1,5 +1,7 @@
 Unsupervised Learning of News Articles Using Topic Modelling 
 
+This project explores the creation of a custom topic modelling method to label a database of CNN news articles using word vectorization and clustering, and evaluate it against the existing classification 
+
 There are 2 python notebooks for my project, which should be viewed in the following order:
 1. Capstone_CNN_EDA+Pre-processing.ipynb
 - Contains EDA, pre-processing, preliminary word2vec model
